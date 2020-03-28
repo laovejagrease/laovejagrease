@@ -1,0 +1,24 @@
+a{
+    color: red;
+}
+
+.netflix {
+    color: red;
+}
+
+.azul {color: blue;
+}
+
+.color-fondo {
+    background-color: yellow;
+}
+
+.seccion {
+    background-color: black;
+    color: white;
+    border: 3px solid yellowgreen;
+    width: 81%;
+    height: 300px;
+    border-radius: 50px;
+    margin: auto;
+}
